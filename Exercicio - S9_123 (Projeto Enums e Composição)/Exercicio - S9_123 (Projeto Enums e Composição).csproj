@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Exercicio___S9_123__Projeto_Enums_e_Composição_</RootNamespace>
+  </PropertyGroup>
+
+</Project>
